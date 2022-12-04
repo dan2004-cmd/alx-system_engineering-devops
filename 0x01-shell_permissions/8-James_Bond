@@ -1,2 +1,2 @@
 #!/bin/bash
-jamebond
+chmod 007 hello
