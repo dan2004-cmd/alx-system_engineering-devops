@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo starwars
+telnet towel.blinkenlights.nl
